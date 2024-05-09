@@ -3,7 +3,7 @@
 <h1 align="center">Welcome! 👋, I'm Yaovi Florient Gadedjro A.</h1>
 <h3 align="center">Everything has a start and this is mine!</h3>
 
-📫 How to reach me **fgadedjro@gmail.com**
+✉️**fgadedjro@gmail.com**
 
 
 Yaovi Florient Gadedjro Abagha, étudiant en informatique, 
@@ -12,8 +12,6 @@ Avec des compétences éprouvées en développement Java et web, ainsi qu'une ex
 Ma passion: creer! et transformer les défis complexes en solutions logicielles élégantes. 
 
 Languages: FRENCH  ENGLISH
-
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
